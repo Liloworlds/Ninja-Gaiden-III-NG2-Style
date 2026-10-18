@@ -150,6 +150,8 @@ MottZilla – Ninja Gaiden III: Restored.
 
 Binarynova – Ninja Gaiden III: Restored PLUS.
 
+Dr. Vee - Coding
+
 FuSoYa – Lunar IPS.
 
 Additional modifications: NG2-inspired physics, jump adjustments, collision corrections, wall changes, yellow-beam removal, and crumbling-platform extension.
